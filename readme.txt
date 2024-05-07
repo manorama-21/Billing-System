@@ -24,8 +24,8 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
-user: admin
-pass: admin123
+user: manu
+pass: 123
 
 create your own user
 
